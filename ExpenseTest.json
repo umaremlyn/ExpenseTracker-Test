@@ -1,0 +1,265 @@
+{
+    "accounts": [
+        {
+            "name": "Cash",
+            "color": -15414114,
+            "icon": "cash",
+            "id": "4500d7f7-c1d1-4251-abfa-c587af201bf8"
+        },
+        {
+            "name": "Bank",
+            "color": -13293952,
+            "icon": "bank",
+            "orderNum": 1.0,
+            "id": "032b1be9-2090-4d87-9955-3920dccc3d29"
+        }
+    ],
+    "categories": [
+        {
+            "name": "Food & Drinks",
+            "color": -15414114,
+            "icon": "fooddrink",
+            "id": "c83f2eba-8bfc-4eee-9e9e-b49cc873a007"
+        },
+        {
+            "name": "Bills & Fees",
+            "color": -49056,
+            "icon": "bills",
+            "orderNum": 1.0,
+            "id": "03630d87-5ca5-4747-bf75-2db3adb458f5"
+        },
+        {
+            "name": "Transport",
+            "color": -2151,
+            "icon": "transport",
+            "orderNum": 2.0,
+            "id": "37e28b25-f624-42c1-9161-0c67aa12d97b"
+        },
+        {
+            "name": "Groceries",
+            "color": -5573920,
+            "icon": "groceries",
+            "orderNum": 3.0,
+            "id": "0f45ec1a-d0fa-4eb5-bc61-2cd80a012fe3"
+        },
+        {
+            "name": "Entertainment",
+            "color": -876752,
+            "icon": "game",
+            "orderNum": 4.0,
+            "id": "b449358f-d87b-4401-994b-0f0ed63c5c87"
+        },
+        {
+            "name": "Shopping",
+            "color": -9744897,
+            "icon": "shopping",
+            "orderNum": 5.0,
+            "id": "374af472-318f-4651-aa1a-b53b3d45776a"
+        },
+        {
+            "name": "Gifts",
+            "color": -13099,
+            "icon": "gift",
+            "orderNum": 6.0,
+            "id": "ef33df35-122e-455f-b5a8-57afbb91e0bd"
+        },
+        {
+            "name": "Health",
+            "color": -2765569,
+            "icon": "health",
+            "orderNum": 7.0,
+            "id": "6211d720-57a6-44a0-acdb-247ffe91098d"
+        },
+        {
+            "name": "Investments",
+            "color": -13293952,
+            "icon": "leaf",
+            "orderNum": 8.0,
+            "id": "0a478f35-b020-47e7-9e43-3d644ff6639c"
+        },
+        {
+            "name": "Loans",
+            "color": -14261632,
+            "icon": "loan",
+            "orderNum": 9.0,
+            "id": "198651fa-752c-43bd-99a2-11e17e26eacd"
+        }
+    ],
+    "settings": [
+        {
+            "theme": "LIGHT",
+            "currency": "USD",
+            "bufferAmount": 1000.0,
+            "name": "Patrio",
+            "id": "93c124e5-d309-46a1-8f49-e205142ce7fb"
+        }
+    ],
+    "transactions": [
+        {
+            "accountId": "4500d7f7-c1d1-4251-abfa-c587af201bf8",
+            "type": "EXPENSE",
+            "amount": 50.0,
+            "toAmount": 50.0,
+            "title": "bag",
+            "dateTime": 1712497037494,
+            "categoryId": "ef33df35-122e-455f-b5a8-57afbb91e0bd",
+            "id": "19b5988a-f879-41be-8fb3-12396448f748"
+        },
+        {
+            "accountId": "032b1be9-2090-4d87-9955-3920dccc3d29",
+            "type": "EXPENSE",
+            "amount": 94.0,
+            "toAmount": 94.0,
+            "title": "cab",
+            "description": "to nyc",
+            "dateTime": 1712410740000,
+            "categoryId": "37e28b25-f624-42c1-9161-0c67aa12d97b",
+            "id": "fe09295c-f56e-4c7a-9c91-1c618b50b79a"
+        },
+        {
+            "accountId": "032b1be9-2090-4d87-9955-3920dccc3d29",
+            "type": "INCOME",
+            "amount": 600.0,
+            "toAmount": 600.0,
+            "title": "Return",
+            "description": "amazon",
+            "dateTime": 1712324340000,
+            "categoryId": "374af472-318f-4651-aa1a-b53b3d45776a",
+            "id": "27ac11e9-aa61-45e5-b5c2-4d6873bbb4c8"
+        },
+        {
+            "accountId": "032b1be9-2090-4d87-9955-3920dccc3d29",
+            "type": "EXPENSE",
+            "amount": 64.0,
+            "toAmount": 64.0,
+            "title": "accidental coverage",
+            "description": "repeat",
+            "dateTime": 1712065080000,
+            "categoryId": "6211d720-57a6-44a0-acdb-247ffe91098d",
+            "id": "a6400747-de63-4561-88c3-aaeb3f833672"
+        },
+        {
+            "accountId": "4500d7f7-c1d1-4251-abfa-c587af201bf8",
+            "type": "INCOME",
+            "amount": 950.0,
+            "toAmount": 950.0,
+            "title": "401k",
+            "description": "returns",
+            "dateTime": 1711978620000,
+            "categoryId": "0a478f35-b020-47e7-9e43-3d644ff6639c",
+            "id": "d7a92d46-7ba2-439b-9d50-0761455d1d3c"
+        },
+        {
+            "accountId": "4500d7f7-c1d1-4251-abfa-c587af201bf8",
+            "type": "EXPENSE",
+            "amount": 1000.0,
+            "toAmount": 1000.0,
+            "title": "VR",
+            "dateTime": 1711114800000,
+            "categoryId": "b449358f-d87b-4401-994b-0f0ed63c5c87",
+            "id": "6f8c51ce-3088-4284-ba29-7c6cdc2db882"
+        },
+        {
+            "accountId": "032b1be9-2090-4d87-9955-3920dccc3d29",
+            "type": "EXPENSE",
+            "amount": 560.0,
+            "toAmount": 560.0,
+            "title": "TV set",
+            "dateTime": 1710164400000,
+            "categoryId": "ef33df35-122e-455f-b5a8-57afbb91e0bd",
+            "id": "72c8fe82-cccb-48ec-a8c6-e286226b7ef6"
+        },
+        {
+            "accountId": "4500d7f7-c1d1-4251-abfa-c587af201bf8",
+            "type": "TRANSFER",
+            "amount": 50.0,
+            "toAccountId": "032b1be9-2090-4d87-9955-3920dccc3d29",
+            "toAmount": 50.0,
+            "title": "Back to Bank",
+            "description": "to bank",
+            "dateTime": 1709698893901,
+            "id": "b31ed680-5294-404a-a313-9c82019fd2b9"
+        },
+        {
+            "accountId": "032b1be9-2090-4d87-9955-3920dccc3d29",
+            "type": "EXPENSE",
+            "amount": 95.0,
+            "toAmount": 95.0,
+            "title": "CD",
+            "description": "Xbox cd",
+            "dateTime": 1709612460000,
+            "categoryId": "374af472-318f-4651-aa1a-b53b3d45776a",
+            "id": "ee1ee25d-9f35-4013-8200-092af0c155af"
+        },
+        {
+            "accountId": "032b1be9-2090-4d87-9955-3920dccc3d29",
+            "type": "EXPENSE",
+            "amount": 90.0,
+            "toAmount": 90.0,
+            "title": "Regular Groceries",
+            "description": "milk and more",
+            "dateTime": 1709526000000,
+            "categoryId": "0f45ec1a-d0fa-4eb5-bc61-2cd80a012fe3",
+            "id": "3f9efb86-0d68-4440-879c-580e31440b76"
+        },
+        {
+            "accountId": "032b1be9-2090-4d87-9955-3920dccc3d29",
+            "type": "EXPENSE",
+            "amount": 60.0,
+            "toAmount": 60.0,
+            "title": "Internet",
+            "description": "monthly bill",
+            "dateTime": 1709353200000,
+            "categoryId": "03630d87-5ca5-4747-bf75-2db3adb458f5",
+            "id": "ef3c340b-b12a-47ca-b394-8c6849cd98cc"
+        },
+        {
+            "accountId": "4500d7f7-c1d1-4251-abfa-c587af201bf8",
+            "type": "INCOME",
+            "amount": 500.0,
+            "toAmount": 500.0,
+            "title": "From Bank",
+            "description": "temporary loan",
+            "dateTime": 1709266740000,
+            "categoryId": "198651fa-752c-43bd-99a2-11e17e26eacd",
+            "id": "4431a527-7737-4b99-b6eb-26dc12d5cd0b"
+        },
+        {
+            "accountId": "032b1be9-2090-4d87-9955-3920dccc3d29",
+            "type": "INCOME",
+            "amount": 50.0,
+            "toAmount": 50.0,
+            "title": "Found",
+            "dateTime": 1709127660000,
+            "categoryId": "0a478f35-b020-47e7-9e43-3d644ff6639c",
+            "id": "d797327c-adb4-4b89-bb80-4a576486cbd2"
+        },
+        {
+            "accountId": "4500d7f7-c1d1-4251-abfa-c587af201bf8",
+            "type": "EXPENSE",
+            "amount": 10.0,
+            "toAmount": 10.0,
+            "title": "Coke",
+            "dateTime": 1709093940000,
+            "categoryId": "c83f2eba-8bfc-4eee-9e9e-b49cc873a007",
+            "id": "9252098a-c881-4374-8828-b81a54403415"
+        },
+        {
+            "accountId": "4500d7f7-c1d1-4251-abfa-c587af201bf8",
+            "type": "EXPENSE",
+            "amount": 60.0,
+            "toAmount": 60.0,
+            "title": "Investment",
+            "description": "mutual fund",
+            "dateTime": 1708921320000,
+            "categoryId": "0a478f35-b020-47e7-9e43-3d644ff6639c",
+            "id": "8b2ae887-1e87-49af-986a-be2685bd689b"
+        }
+    ],
+    "sharedPrefs": {
+        "transfers_as_inc_exp": "false",
+        "show_notifications": "true",
+        "hide_current_balance": "false",
+        "lock_app": "false"
+    }
+}
